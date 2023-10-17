@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  font-family: Brush Script MT;
+  font-size: 50px;
+  color: black;
+}
+
+p {
+  text-align: center;
+  font-weight: 10px;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: Brush Script MT;
+  font-size: 30px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+.center {
+  text-align: Center;
+  list-style-position: inside;
+}
+
+body {
+  background-color: #fff9de;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
